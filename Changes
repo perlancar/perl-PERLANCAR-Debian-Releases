@@ -1,6 +1,6 @@
 Revision history for PERLANCAR-Debian-Releases
 
-0.01    2015-09-22 (PERLANCAR) (unreleased)
+0.01    2015-09-22 (PERLANCAR)
 
         - First version, released while waiting for new Debian::Releases which
           is supposed to contain additional data too.
