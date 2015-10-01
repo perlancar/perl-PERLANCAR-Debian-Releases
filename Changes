@@ -1,5 +1,10 @@
 Revision history for PERLANCAR-Debian-Releases
 
+0.03    2015-10-01 (PERLANCAR)
+
+	- Update data (kernel/perl version for older releases).
+
+
 0.02    2015-09-22 (PERLANCAR)
 
 	- Update data (add column perlver).
