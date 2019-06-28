@@ -18,7 +18,7 @@ our @EXPORT_OK = qw(
 our %SPEC;
 
 our $meta = {
-    summary => 'Ubuntu releases',
+    summary => 'Debian releases',
     fields => {
         version         => { pos => 0, schema => "str*", sortable => 1, summary => "Version", unique => 1 },
         code_name       => { pos => 1, schema => "str*", sortable => 1, summary => "Code name", unique => 1 },
