@@ -1,3 +1,10 @@
+20190815.0  2019-08-15  Released-By: PERLANCAR; Urgency: medium
+
+            - Change versioning scheme.
+
+            - [build] Rebuild to update data (new: Debian 10).
+
+
 0.050   2017-09-08  Released-By: PERLANCAR
 
 	- [Incompatible change] Switch data source from gudangdata
